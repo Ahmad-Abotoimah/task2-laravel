@@ -1,0 +1,15 @@
+.container1 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    width: 50%;
+}
+
+.container2 {
+    margin-left: 50px;
+}
+
+.diff {
+    font-size: 50px;
+    color: blue;
+}
